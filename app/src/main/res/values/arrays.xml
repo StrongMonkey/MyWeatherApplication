@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_unit_list_titles">
+        <item>imperial</item>
+        <item>metric</item>
+    </string-array>
+
+
+    <string-array name="pref_unit_list_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+
+
+</resources>
